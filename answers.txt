@@ -10,3 +10,7 @@ Answer: It could be applied to physics. When doing large scale experiments like 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: They both do the same thing just in different ways. Rebasing is a more destructive operation and rewrites project history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Clubs
