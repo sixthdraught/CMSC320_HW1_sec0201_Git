@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It could be applied to physics. When doing large scale experiments like something to do with nuclear fission, many variables need to be taken account for and analyzed and data science would help with finding correlations and more
