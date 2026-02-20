@@ -1,9 +1,12 @@
-<<<<<<< HEAD
 Q1: Why might we consider using Git?
 
 Answer: Because it's a relatively simpler way of keeping track of progress if you are familiar with its interface. It also scales well with more people.
-=======
+
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: It could be applied to physics. When doing large scale experiments like something to do with nuclear fission, many variables need to be taken account for and analyzed and data science would help with finding correlations and more
->>>>>>> q2
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: They both do the same thing just in different ways. Rebasing is a more destructive operation and rewrites project history.
